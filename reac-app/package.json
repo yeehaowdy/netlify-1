@@ -1,5 +1,6 @@
 {
   "name": "reac-app",
+  "homepage": "https://netlifiytest1pr.netlify.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
